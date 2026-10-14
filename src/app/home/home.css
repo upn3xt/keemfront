@@ -1,0 +1,21 @@
+.greets {
+  background-color: tomato;
+  color: darkred;
+  padding: 5%;
+}
+
+.hiheader {
+  margin-right: 20%;
+  margin-left: 20%;
+  text-align: center;
+}
+
+.prsnt {
+  padding: 5%;
+  background-color: white;
+}
+
+.pdetails {
+  padding: 20%;
+  background-color: lightgrey;
+}

@@ -1,0 +1,19 @@
+.navigation {
+  display: flex;
+  list-style: none;
+  justify-content: flex-end;
+}
+
+.navigation li {
+  padding: 1%;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: wheat;
+}
+
+/* .navig { */
+/* background-color: indianred; */
+/* border-radius: 5px; */
+/* } */
